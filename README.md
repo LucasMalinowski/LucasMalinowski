@@ -1,12 +1,10 @@
 <h1 align="center">👋 Hi, I'm Lucas!</h1>
 
-<h3 align="center">I'm a passionate developer with a knack for building robust applications.</h3>
+<h3 align="center">I'm a passionate Software Engineer with a knack for building robust applications.</h3>
 
 <div align="center">
 
- working on a 2D Character Action Metroidvania
-
- Studying Software Engineering
+ Graduated on System Analysis
  
 </div>
 
